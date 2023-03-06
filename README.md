@@ -1,3 +1,3 @@
 # HBOclone
 
-live link: https://khmalaa.github.io/HBOclone/
+live link: https://AchikoKhmaladze.github.io/HBOclone/
